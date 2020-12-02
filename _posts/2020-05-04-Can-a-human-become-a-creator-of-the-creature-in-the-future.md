@@ -11,8 +11,7 @@ The question that arises here is that how much information does it take to build
 
 Now to build human beings, we first need to read the code of life i.e., genetic code. Rosalind Franklin took a rough picture of it for the first time. From the time of her discovery, it took more than 40 years to poke inside the cell, take out the chromosome, unpack it to take a string of Deoxyribonucleic acid (DNA), and read the code. This code comes out to be just 4 letters: A for  _Adenine_, T for  _Thymine_, C for  _Cytosine_, and G for  _Guanine_. The genetic code is a combination of these 4 letters. This is analogous to Claude Shannon's  _Information Theory_ which says that any piece of digital information can be represented with 0s and 1s.  
 
-![Claude Shannon (from Wikipedia](https://raw.githubusercontent.com/iamspriyadarshi/iamspriyadarshi.github.io/master/images/shannon.jpg)
- {% include image.html url="https://raw.githubusercontent.com/iamspriyadarshi/iamspriyadarshi.github.io/master/images/shannon.jpg" description="Claude Shannon (from Wikipedia)" %}
+{% include image.html url="https://raw.githubusercontent.com/iamspriyadarshi/iamspriyadarshi.github.io/master/images/shannon.jpg" description="Claude Shannon (from Wikipedia)" %}
 
 The sequencing of the Human Genome was done by the Human Genome Project and genetic code was stored in typed form in books. The number of books required just to store the code of human DNA  comes out to be 3300, and each book contains 1000 pages, and each page contains 1000 letters. If you miss a letter from it, you will get a genetic disease. You can see the perfection of nature from this. The exciting thing here is that only 10 million letters i.e., 10000 pages of these books make differences in humans. Rest of the codes are identical in all the humans. These ten million letters are responsible for human diversity like difference in heights, complexions, etc.  
 
