@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <center>shreyansh.priyadarshi_ug24@ashoka.edu.in</center>
 
 news: false  # includes a list of news items
