@@ -15,9 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
-
 I'm currently in my final year as an undergraduate student at [Ashoka University](https://www.ashoka.edu.in), where I'm passionately pursuing my major in Biological Science and minor in Computer Science. My research endeavors revolve around the fascinating realm of Computational Biology, where I aim to harness the power of Computer Science to address biological challenges. I'm specifically interested in Computational Oncology, which involves leveraging data-driven methodologies to create innovative solutions for the detection, therapy, and control of cancer.
 
 Currently, I am working under the supervision of [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) from [S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/) and [Prof. Debayan Gupta](https://debayangupta.com/) from [Ashoka University](https://www.ashoka.edu.in). Beyond academics, I find joy in the game of Pool, a passion that adds balance to my life.
