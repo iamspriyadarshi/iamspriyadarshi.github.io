@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:shreyansh.priyadarshi_asp25@ashoka.edu.in'>shreyansh.priyadarshi_asp25@ashoka.edu.in</a>
+subtitle: <a href='mailto:shreyansh.priyadarshi@ashoka.edu.in'>shreyansh.priyadarshi@ashoka.edu.in</a>
 
 profile:
   align: right
@@ -15,6 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a Postgraduate Diploma with a thesis in Computer Science, with a concentration in Chemistry, at [Ashoka University](https://www.ashoka.edu.in). I previously completed my undergraduate studies at Ashoka University, majoring in Biology and minoring in Computer Science. My academic and research interests lie at the intersection of biology and computation. I am particularly drawn to Computational Biology, where I strive to harness the power of Computer Science to address complex biological challenges. My work primarily focuses on Computational Oncology, where I explore data-driven methodologies to develop innovative approaches for cancer detection, treatment, and control. Additionally, I am deeply interested in Computational Drug Discovery, aiming to utilize computational techniques for identifying and designing novel therapeutic compounds. Through this interdisciplinary lens, I hope to contribute to transformative advancements in biomedical science and precision medicine.
+I am currently a Pre-Doctoral Research Fellow in the Department of Computer Science at Ashoka University, working under the guidance of [Prof. Debayan Gupta](https://debayangupta.com/). Concurrently, I collaborate with [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) from the [S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/). I hold a Bachelor's degree with a major in Biology and a minor in Computer Science, followed by a Postgraduate Diploma (thesis-based) in Computer Science with a concentration in Chemistry, both from [Ashoka University](https://www.ashoka.edu.in). 
 
-Currently, I am working under the supervision of [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) from [S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/), and [Prof. Debayan Gupta](https://debayangupta.com/) from [Ashoka University](https://www.ashoka.edu.in). Beyond academics, I find joy in the game of Pool, a passion that adds balance to my life.
+My research lies at the intersection of biology and computation, with a focus on Computational Biology. I am particularly passionate about Computational Oncology, where I develop data-driven approaches to improve cancer detection, treatment strategies, and disease control. Additionally, I am deeply interested in Computational Drug Discovery, leveraging machine learning and bioinformatics to design novel therapeutics. Through this interdisciplinary work, I aim to contribute to advancements in precision medicine and biomedical innovation.
+
+<p>
+  <strong style="color: #ff0000;">Open to Opportunities:</strong> 
+  I am currently exploring PhD and research positions in Computational Biology. 
+  <a href="mailto:shreyansh.priyadarshi@ashoka.edu.in">Contact me</a> for collaborations or openings!
+</p>
