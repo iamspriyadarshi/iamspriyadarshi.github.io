@@ -9,7 +9,7 @@ nav_order: 3
 <!-- _pages/patents.md -->
 <div class="patents">
 
-  <div class="card p-4 border rounded-xl shadow-sm bg-white">
+  <div class="card p-4 border rounded-xl shadow-sm bg-transparent backdrop-blur">
     <h3 class="text-lg font-semibold">CANCER HALLMARK ACTIVITY QUANTIFICATION SYSTEM</h3>
     <p class="text-sm text-gray-600"><strong>Application No:</strong> 202511064233</p>
     <p class="text-sm text-gray-600"><strong>Publication No:</strong> 32/2025</p>
