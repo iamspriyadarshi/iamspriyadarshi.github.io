@@ -1,58 +1,23 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+title: patents
+permalink: /patents/
+description: List of filed and granted patents 
+nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+<div class="patents">
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
+  <div class="card p-4 border rounded-xl shadow-sm bg-white">
+    <h3 class="text-lg font-semibold">CANCER HALLMARK ACTIVITY QUANTIFICATION SYSTEM</h3>
+    <p class="text-sm text-gray-600"><strong>Application No:</strong> 202511064233</p>
+    <p class="text-sm text-gray-600"><strong>Publication No:</strong> 32/2025</p>
+    <p class="text-sm text-gray-600"><strong>Publication Date:</strong> August 8, 2025</p>
+    <p class="text-sm text-gray-600"><strong>Inventors:</strong> Shreyansh Priyadarshi, et al.</p>
+    <a href="https://iprsearch.ipindia.gov.in/PublicSearch/" class="text-blue-600 mt-2 inline-block">Search Application Number of Indian Patent Website for more information →</a>
   </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+
 </div>
