@@ -5,7 +5,6 @@ permalink: /patents/
 description: List of filed and granted patents 
 nav: true
 nav_order: 3
-horizontal: false
 ---
 
 <!-- pages/projects.md -->
