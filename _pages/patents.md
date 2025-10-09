@@ -7,7 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<!-- pages/patents.md -->
 <div class="patents">
 
   <div class="card p-4 border rounded-xl shadow-sm bg-white">
