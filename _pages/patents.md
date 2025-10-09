@@ -1,7 +1,7 @@
 ---
 layout: page
 title: patents
-permalink: /
+permalink: /patents/
 description: List of filed and granted patents 
 nav: true
 nav_order: 3
