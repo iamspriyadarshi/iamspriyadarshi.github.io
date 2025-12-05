@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a **Pre-Doctoral Research Fellow** at the [**Mphasis AI & Applied Tech Lab, Ashoka University**](https://www.ashoka.edu.in/page/mphasis-lab/), working with [**Prof. Debayan Gupta**](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and [**Prof. Shubhasis Haldar**](https://www.shubhasis-haldar-cmt.com/) ([S.N. Bose National Centre for Basic Sciences**](https://www.bose.res.in/)). 
 
-I am also a **Visiting Academic** at the [**University of Southampton**](https://www.southampton.ac.uk/), collaborating with [**Prof. Kedar Natarajan**](https://www.southampton.ac.uk/people/66c87x/doctor-k-natarajan), and hold a **Visiting Research Position** at the [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/), working with [**Prof. Aziz Khan**](https://khanlab.bio/).
+I am also a **Visiting Academic** at the [**University of Southampton**](https://www.southampton.ac.uk/), collaborating with [**Prof. Kedar Natarajan**](https://www.southampton.ac.uk/people/66c87x/doctor-k-natarajan), and hold a **Visiting Researcher Position** at the [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/), working with [**Prof. Aziz Khan**](https://khanlab.bio/).
 
 I completed my **Bachelor’s degree (Biology major, Computer Science minor)** and a **Postgraduate Diploma in Research (Computer Science thesis, Chemistry concentration)** from [**Ashoka University**](https://www.ashoka.edu.in).
 
