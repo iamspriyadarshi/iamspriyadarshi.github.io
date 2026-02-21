@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Pre-Doctoral Research Fellow at the [**Mphasis AI & Applied Tech Lab, Ashoka University**](https://www.ashoka.edu.in/page/mphasis-lab/), working with [Prof. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) ([S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/)).
+I am currently a Pre-Doctoral Research Fellow at the [**Mphasis AI & Applied Tech Lab, Ashoka University**](https://www.ashoka.edu.in/page/mphasis-lab/), working with [Prof. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) ([Ashoka University](https://www.ashoka.edu.in)) and [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) ([S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/)).
 
 I am also a Visiting Academic at the [**University of Southampton**](https://www.southampton.ac.uk/), and hold a Visiting Researcher Position at the [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/).
 
