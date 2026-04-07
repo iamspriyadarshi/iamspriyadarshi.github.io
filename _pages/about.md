@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='mailto:shreyansh.priyadarshi@ashoka.edu.in'>shreyansh.priyadarshi@ashoka.edu.in</a><br><a href='mailto:S.Priyadarshi@soton.ac.uk'>S.Priyadarshi@soton.ac.uk</a><br><a href='mailto:Shreyansh.P@mbzuai.ac.ae'>Shreyansh.P@mbzuai.ac.ae</a>"
+subtitle: "<a href='mailto:Shreyansh.Priyadarshi@soton.ac.uk'>Shreyansh.Priyadarshi@soton.ac.uk</a><br><a"
 
 profile:
   align: right
