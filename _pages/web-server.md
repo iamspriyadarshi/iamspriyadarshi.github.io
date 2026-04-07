@@ -3,7 +3,7 @@ layout: page
 title: web-server
 permalink: /web-server/
 description: List of deployed web-servers and online tools
-nav: true
+nav: false
 nav_order: 5
 ---
 
