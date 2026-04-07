@@ -3,7 +3,7 @@ layout: page
 title: packages
 permalink: /packages/
 description: List of developed packages
-nav: true
+nav: false
 nav_order: 4
 ---
 
