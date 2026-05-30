@@ -15,13 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Pre-Doctoral Research Fellow at the [**Mphasis AI & Applied Tech Lab, Ashoka University**](https://www.ashoka.edu.in/page/mphasis-lab/), working with [Prof. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) ([Ashoka University](https://www.ashoka.edu.in)) and [Prof. Shubhasis Haldar](https://www.shubhasis-haldar-cmt.com/) ([S.N. Bose National Centre for Basic Sciences](https://www.bose.res.in/)).
+I am a Doctoral Researcher in the School of Biological Sciences at the [**University of Southampton**](https://www.southampton.ac.uk/). I completed my Bachelor’s degree (Biology major, Computer Science minor) and a Postgraduate Diploma in Research (Computer Science thesis, Chemistry concentration) from [**Ashoka University**](https://www.ashoka.edu.in).
 
-I am also a Visiting Academic at the [**University of Southampton**](https://www.southampton.ac.uk/), and hold a Visiting Researcher Position at the [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/).
-
-I completed my Bachelor’s degree (Biology major, Computer Science minor) and a Postgraduate Diploma in Research (Computer Science thesis, Chemistry concentration) from [**Ashoka University**](https://www.ashoka.edu.in).
-
-My research sits at the interface of biology and computation, with a primary focus on Computational Oncology viewed through the lens of developmental biology. I am particularly interested in how cell fate decisions, growth dynamics, and tissue organization contribute to cancer progression. More recently, I have developed a strong interest in AI-powered virtual cell models, which offer a promising avenue for simulating complex cellular behaviors and decoding disease mechanisms at scale. Through this interdisciplinary work, I aim to advance precision medicine and contribute to innovative, data-driven approaches in biomedical science.
+My research lies at the intersection of gene regulatory networks (GRNs), multi-omics data integration, and cellular reprogramming. I am particularly interested in developing computational and systems biology approaches to model regulatory dynamics underlying cell fate decisions. By integrating diverse high-throughput datasets such as transcriptomic, epigenomic, and chromatin accessibility data, my work aims to uncover the molecular mechanisms that govern reprogramming and cellular identity during development.
 
 <!-- <p>
   <strong style="color: #ff0000;">Open to Opportunities:</strong> 
